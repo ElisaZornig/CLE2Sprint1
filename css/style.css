@@ -46,5 +46,20 @@ nav {
 }
 
 .space {
-    margin-top: 50rem;
+    margin-top: 5rem;
+}
+
+.review {
+    font-size: 2rem;
+}
+
+h1 {
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    font-size: 4rem;
+    text-align: center;
+    background-image: url(../images/line.png);
+    background-position: center;
+    background-size: 20rem;
+    background-repeat: no-repeat;
 }
