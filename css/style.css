@@ -1,0 +1,50 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Mulish&family=Roboto+Mono:wght@300&family=Titan+One&display=swap');
+
+.has-background-band {
+    background-image: url(../images/background.png);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Indie Flower', cursive;
+    color: #FEFAE0;
+}
+
+nav {
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .1);
+
+}
+
+.column {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.navbar-item {
+    color: #FEFAE0;
+}
+
+.navbar-item :hover {
+    background-color: #FEFAE0 !important;
+    color: #d4a372 !important;
+
+}
+
+.logo {
+    object-fit: cover;
+    height: 10vh;
+}
+
+.hero-body {
+    background-image: url(../images/artwork.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.columns {
+    margin-bottom: 10rem;
+    margin-top: 30px;
+}
+
+.space {
+    margin-top: 50rem;
+}
